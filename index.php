@@ -39,9 +39,7 @@
 <body>
 <div class="mx-auto" style="width: 200px;">
     <div class="alert alert-primary" role="alert">
-        <?php
 
-        ?>
     </div>
 <form method="post" name="input_number" id="input_number" onsubmit="return validateForm()" action="<?=$_SERVER['PHP_SELF']?>">
     <div class="form-group">
